@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestaoArtigos.Domain/GestaoArtigos.Domain.csproj" />
+    <Project Path="src/GestaoArtigos.Service/GestaoArtigos.Service.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GestaoArtigos.Service.Tests/GestaoArtigos.Service.Tests.csproj" />
+  </Folder>
+</Solution>
